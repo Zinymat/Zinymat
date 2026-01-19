@@ -3,7 +3,11 @@
 ## 📋 Executive Summary
 This project outlines the methodologies used to streamline administrative operations and reduce overhead for international firms in the US and UK. By leveraging modern tech stacks and AI automation, I achieved a **35% reduction in company expenses** while maintaining **99.9% data accuracy**.
 
----
+---### 🛠️ Core Skills & Certifications
+![ISO 9001](https://img.shields.io/badge/ISO_9001:2015-Internal_Auditor-blue?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project_Management-CIPQP-orange?style=for-the-badge&logo=trello&logoColor=white)
+![AI Specialist](https://img.shields.io/badge/AI_Strategy-ChatGPT_|_Claude-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Remote Ops](https://img.shields.io/badge/Remote_Operations-US_|_UK_Markets-black?style=for-the-badge&logo=google-earth&logoColor=white)
 
 ## 🛠️ The Challenge
 Managing a distributed team across different time zones (WAT, GMT, EST) often leads to:
